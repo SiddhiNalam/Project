@@ -1,0 +1,13 @@
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\bin\Debug\FinalApplication1.exe.config
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\obj\Debug\FinalApplication1.csprojResolveAssemblyReference.cache
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\obj\Debug\FinalApplication1.Form1.resources
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\obj\Debug\FinalApplication1.Properties.Resources.resources
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\obj\Debug\FinalApplication1.csproj.GenerateResource.Cache
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\bin\Debug\FinalApplication1.exe
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\bin\Debug\FinalApplication1.pdb
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\obj\Debug\FinalApplication1.exe
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\obj\Debug\FinalApplication1.pdb
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\bin\Debug\FinalApplication1.exe.manifest
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\bin\Debug\FinalApplication1.application
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\obj\Debug\FinalApplication1.exe.manifest
+e:\users\dell\documents\visual studio 2012\Projects\FinalApplication1\FinalApplication1\obj\Debug\FinalApplication1.application
